@@ -1,4 +1,4 @@
-const baseUrl = 'https://mern-ecomm.herokuapp.com';
+const baseUrl = 'http://localhost:2000';
 
 export const api = `${baseUrl}/api`;
 export const generatePublicUrl = (fileName) => {
